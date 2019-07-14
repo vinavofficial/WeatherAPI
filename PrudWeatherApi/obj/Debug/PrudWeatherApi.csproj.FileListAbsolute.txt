@@ -1,0 +1,13 @@
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\PrudWeatherApi.dll
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\PrudWeatherApi.pdb
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\Newtonsoft.Json.dll
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\System.Web.Http.dll
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\Newtonsoft.Json.xml
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\System.Web.Http.xml
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\obj\Debug\PrudWeatherApi.dll
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\obj\Debug\PrudWeatherApi.pdb
+C:\Users\Vins\Desktop\PrudentialWeatherService\PrudWeatherApi\PrudWeatherApi\obj\Debug\PrudWeatherApi.csprojResolveAssemblyReference.cache
