@@ -1,6 +1,6 @@
 # WeatherAPI
 
-1) Clone the repo locally in your system from Github.
+1) Clone the repo locally in your system from "https://github.com/vinavofficial/WeatherAPI.git".
 2) Open solution. There are two projects which includes API and Unit test.
 3) Open unit test project to test the api & debug the same.
 4) To test using fiddler/Postman
